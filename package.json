@@ -1,6 +1,5 @@
 {
   "name": "example_idgobpe_sdk_nodejs",
-  "version": "1.0.0",
   "description": "Demo integration for ID Gob.pe",
   "main": "index.js",
   "scripts": {
