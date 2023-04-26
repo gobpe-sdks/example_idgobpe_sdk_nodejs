@@ -1,6 +1,0 @@
-/node_modules
-/config/idgobpe_config.json
-/.idea
-*.rdb
-*.log*
-package-lock.json
